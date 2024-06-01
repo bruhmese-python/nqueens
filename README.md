@@ -6,7 +6,7 @@
 The project features a chessboard environment where the N-Queens problem is solved visually through code-generated animations. The animations demonstrate how the queens are placed on the board without conflicting with each other according to the rules of chess.
 
 ## Usage
-To use this project, simply download the ```nqueens.blend``` file and open it in Blender. You can then navigate through the scenes and play(```Shift Spacebar``` *(2.8+)* or  ```Alt A``` *(2.79)* ) to visualize the different algorithms in action.
+To use this project, simply download the [nqueens.blend](https://katherineoelsner.com/) file and open it in Blender. You can then navigate through the scenes and play(```Shift Spacebar``` *(2.8+)* or  ```Alt A``` *(2.79)* ) to visualize the different algorithms in action.
 
 No running of additional code is needed as the animations are already baked into the scenes. However, the code used to generate the animations is included within the project in case you wish to review or modify it.
 
